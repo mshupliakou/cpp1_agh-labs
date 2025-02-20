@@ -27,10 +27,10 @@ The repository is organized by lessons or topics covered in the course:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/cpp-university-tasks.git
+   git clone https://github.com/username/repository_name
 2. Navigate to the folder of the desired lesson or project:
    ```bash
-   cd cpp-university-tasks/lesson-01
+   cd repository_name/lesson-01
 3. Create a build folder
    ```bash
    mkdir build
