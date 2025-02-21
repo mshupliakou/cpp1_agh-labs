@@ -21,6 +21,7 @@ The repository is organized by lessons or topics covered in the course:
 ## 📋 Topics Covered
 
 1. **Basic Syntax:** Introduction to C++ programming.
+2. **Different code mistakes and errors**
 
 
 ## 🚀 How to Run the Code
