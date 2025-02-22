@@ -1,4 +1,4 @@
-# C++ Classes - AGH University (3rd Semester)
+# C++ Classes - AGH University (3rd Semester) STILL WORKING ON THIS. GOING TO FINISH 1ST MARCH
 
 This repository contains codes and tasks from my C++ classes at AGH University during the 3rd semester. It includes examples, exercises, and solutions to various programming tasks covered in the course.
 
