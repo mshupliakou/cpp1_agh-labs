@@ -24,8 +24,9 @@ The repository is organized by lessons or topics covered in the course:
 2. **Different code bugs and errors**
 3. **Simple code. Global variables. Several files code**
 4. **Classes**
-5. **Classes. Virtual functions. Const functions. Static functions**
+5. **Classes. Const functions. Static functions**
 6. **Practising working on classes. Type std::pair. Operators made by user**
+7. **Classes. Vectors**
 
 
 ## 🚀 How to Run the Code
