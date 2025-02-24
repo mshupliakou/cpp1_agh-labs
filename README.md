@@ -25,7 +25,7 @@ The repository is organized by lessons or topics covered in the course:
 3. **Simple code. Global variables. Several files code**
 4. **Classes**
 5. **Classes. Const functions. Static functions**
-6. **Practising working on classes. Type std::pair. Operators made by user**
+6. **Practising classes. Type std::pair. Operators made by user**
 7. **Classes. Vectors**
 8. **Classes. Vectors. Different types of constructors**
 
