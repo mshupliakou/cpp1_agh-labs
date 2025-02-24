@@ -22,7 +22,7 @@ The repository is organized by lessons or topics covered in the course:
 
 1. **Basic Syntax:** Introduction to C++ programming.
 2. **Different code bugs and errors**
-3. 
+3. **Simple code. Global variables. Several files code**
 4. 
 5. 
 6. **Practising working on classes. Type std::pair. Operators made by user**
