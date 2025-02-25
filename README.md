@@ -30,6 +30,7 @@ The repository is organized by lessons or topics covered in the course:
 8. **Classes. Vectors. Different types of constructors**
 9. **Operators**
 10. **Practising classes**
+11. **Functors**
 
 
 ## 🚀 How to Run the Code
