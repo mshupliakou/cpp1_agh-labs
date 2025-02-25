@@ -1,4 +1,4 @@
-# C++ Classes - AGH University (3rd Semester) APPLIED COMPUTER SCIENCE ||| STILL WORKING ON THIS. GOING TO FINISH ON THE 1ST OF MARCH |||
+# C++ Classes - AGH University (3rd Semester) APPLIED COMPUTER SCIENCE 
 
 This repository contains codes and tasks from my C++ classes at AGH University during the 3rd semester. It includes examples, exercises, and solutions to various programming tasks covered in the course.
 
