@@ -28,6 +28,7 @@ The repository is organized by lessons or topics covered in the course:
 6. **Practising classes. Type std::pair. Operators made by user**
 7. **Classes. Vectors**
 8. **Classes. Vectors. Different types of constructors**
+9. **Operators**
 
 
 ## 🚀 How to Run the Code
